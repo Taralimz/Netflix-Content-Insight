@@ -10,7 +10,7 @@ This project explores the storytelling heartbeat behind Netflix’s global catal
 Netflix's catalog surged after 2016, peaking around 2019. Movies make up about **70%** of titles, while TV shows account for the rest.
 
 <p align="center">
-  <img src="Netflix-Content-Insight/images/content_type_pie.png" width="300">
+  <img src="/images/content_type_pie.png" width="300">
   <img src="images/content_growth_by_type.png" width="600">
 </p>
 
